@@ -169,7 +169,7 @@ a {
   line-height: 120%;
   height: auto;
   border-radius: var(--radius-regular);
-  border: 2px solid var(--border);
+  border: 1px solid var(--border);
 }
 .item__folder:hover{
   background-color: var(--bg-secondary);
