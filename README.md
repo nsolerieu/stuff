@@ -11,6 +11,8 @@ There is countless hosted way to build a personal library of stuff. From Pintere
 - No built in compression
 - No sub folder (1 level of nesting only)
 - No pages
+- No sorting
+- No icons
 
 It emulates a system folder and is biased toward simplicity and ownership: file over apps. Please consider compressing what you upload and the footprint of your stuff - and the copyrights.
 
@@ -24,3 +26,12 @@ Learn more about it [here](https://slrncl.com/stuff/stuff/about.md)
 - Get rid of jquery
 - Highlight with special character in string
 - Find a better name
+
+
+---
+
+## Past life
+
+This is an evolution of a previous project still running for my [/moments](https://slrncl.com/moments/) page - an image folder with a lightbox. I built upon this as my main use case is to store and visualize images - like for my moodboard, migrated from tumblr:
+
+<img width="1705" alt="Screenshot 2025-02-19 at 3 22 16 PM" src="https://github.com/user-attachments/assets/b3a106e8-8875-4dca-a996-98bfdc2f1d69" />
