@@ -5,8 +5,6 @@ An improvised `/stuff` folder to unplug from social media and productivity apps 
 
 This is a simple web UI kit to deploy your own folder. Images open in a light box overlay, everything else opens in a new tab.
 
-There is countless hosted way to build a personal library of stuff. From Pinterest and insta to more niche are.na there is plenty to consider. This is not meant to be a productivity, inspiration, or bookmarking tool, more like a « stuff » folder. For me, it’s my lab where I collect inspiration and archive my own stuff.
-
 - No upload widget
 - No built in compression
 - No sub folder (1 level of nesting only)
@@ -14,9 +12,7 @@ There is countless hosted way to build a personal library of stuff. From Pintere
 - No sorting
 - No icons
 
-It emulates a system folder and is biased toward simplicity and ownership: file over apps. Please consider compressing what you upload and the footprint of your stuff - and the copyrights.
-
-Learn more about it [here](https://slrncl.com/stuff/stuff/about.md)
+There is countless hosted way to build a personal library of stuff. From Pinterest and insta to more niche are.na there is plenty to consider. This is not meant to be a productivity, inspiration, or bookmarking tool, more like a « stuff » folder. For me, it’s my lab where I collect inspiration and archive my own stuff. It emulates a system folder and is biased toward simplicity and ownership: file over apps. Please consider compressing what you upload and the footprint of your stuff - and the copyrights.
 
 ---
 
@@ -25,8 +21,7 @@ Learn more about it [here](https://slrncl.com/stuff/stuff/about.md)
 - .txt and .md view to make it more palatable
 - Get rid of jquery
 - Highlight with special character in string
-- Find a better name
-
+- Find a better name (For consideration: shtuff, Labb, Grange, Saak ??)
 
 ---
 
