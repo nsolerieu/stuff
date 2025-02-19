@@ -36,66 +36,60 @@
     <div class="file-containter">
 
     <?php
-      
       $directory = 'stuff/';
-      $items = scandir($directory, SCANDIR_SORT_NONE);  
-        
+      $items = scandir($directory, SCANDIR_SORT_NONE);
+
+      $folders = [];
+      $files = [];
+
       foreach ($items as $item) {
-
         if ($item !== '.' && $item !== '..') {
-
-          $path = $directory.''.$item;
-
-          // File
-
-          if (is_file($path)) {
-
-            $ext = pathinfo($path, PATHINFO_EXTENSION);
-
-            // image (4 types supported only)
-            if ( $ext == 'jpg' || $ext == 'png' || $ext == 'gif' || $ext == 'webp' || $ext == 'svg' ) {
-              echo '
-
-                <div class="item">
-                  <figure class="item__image-file zoomlightbox-trigger" data-image-src="'.$path.'">
-                    <img data-src="'.$path.'" alt="'.$item.'" class="lazy" >
-                  </figure>
-                </div>
-
-              ';
-            }
-
-            // other file
-            else {
-              echo '
-
-                <div class="item">
-                  <a href='.$path.'>
-                    <div class="item__other-file">'.$item.'</div>
-                  </a>
-                </div>
-
-              ';
-            }
-
-          // Folder 
-
-          } elseif (is_dir($path)) {
-
-            echo '
-
-                <div class="item">
-                  <a href=folder.php?name='.$item.'>
-                    <div class="item__folder">/'.$item.'</div>
-                  </a>
-                </div>
-
-                ';
-
+          $path = $directory . '' . $item;
+          if (is_dir($path)) {
+            $folders[] = $item;
+          } elseif (is_file($path)) {
+            $files[] = $item;
           }
         }
       }
 
+      /* Unsure about sorting alphabetically
+      natcasesort($folders);
+      natcasesort($files);
+      */
+
+      $items = array_merge($folders, $files);
+
+      foreach ($items as $item) {
+        $path = $directory . '' . $item;
+
+        if (is_file($path)) {
+          $ext = pathinfo($path, PATHINFO_EXTENSION);
+
+          if (in_array($ext, ['jpg', 'png', 'gif', 'webp', 'svg'])) {
+            echo '
+              <div class="item">
+                <figure class="item__image-file zoomlightbox-trigger" data-image-src="' . $path . '">
+                  <img data-src="' . $path . '" alt="' . $item . '" class="lazy" >
+                </figure>
+              </div>';
+          } else {
+            echo '
+              <div class="item">
+                <a href=' . $path . '>
+                  <div class="item__other-file">' . $item . '</div>
+                </a>
+              </div>';
+          }
+        } elseif (is_dir($path)) {
+          echo '
+            <div class="item">
+              <a href=folder.php?name=' . $item . '>
+                <div class="item__folder">/' . $item . '</div>
+              </a>
+            </div>';
+        }
+      }
     ?>
 
     </div>
