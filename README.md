@@ -1,7 +1,6 @@
 An improvised `/stuff` folder to unplug from social media and productivity apps - built with good old php
 
-<img width="1705" alt="Screenshot 2025-02-19 at 2 58 22 PM" src="https://github.com/user-attachments/assets/dd308c0c-fa50-47d5-aad0-607acd08d02d" />
-
+<img width="1438" alt="Screenshot 2025-02-19 at 3 53 30 PM" src="https://github.com/user-attachments/assets/6196d6be-15e5-44b2-a147-98edaf08d86e" />
 
 This is a simple web UI kit to deploy your own folder. Images open in a light box overlay, everything else opens in a new tab.
 
@@ -12,7 +11,7 @@ This is a simple web UI kit to deploy your own folder. Images open in a light bo
 - No sorting
 - No icons
 
-There is countless hosted way to build a personal library of stuff. From Pinterest and insta to more niche are.na there is plenty to consider. This is not meant to be a productivity, inspiration, or bookmarking tool, more like a « stuff » folder. For me, it’s my lab where I collect inspiration and archive my own stuff. It emulates a system folder and is biased toward simplicity and ownership: file over apps. Please consider compressing what you upload and the footprint of your stuff - and the copyrights.
+There is countless hosted way to build a personal library of stuff. From Pinterest, insta, dribbble to more niche tumblr and are.na there is plenty to consider. This is not meant to be a productivity, inspiration, or bookmarking tool, more like a « stuff » folder. For me, it’s my lab where I collect inspiration and archive my own stuff. It emulates a system folder and is biased toward simplicity and ownership: file over apps. Please consider compressing what you upload and the footprint of your stuff - and the copyrights.
 
 ---
 
