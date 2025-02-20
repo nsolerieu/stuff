@@ -84,6 +84,19 @@ $folder_path = __DIR__.'/stuff/'.$folder_name;
                     ';
                   }
 
+                  // txt or md file
+                  elseif ( $ext == 'txt' || $ext == 'md' ) {
+                    echo '
+
+                      <div class="item">
+                        <a href=text-file.php?name='.$folder_name.'/'.$item.'>
+                          <div class="item__other-file">'.$item.'</div>
+                        </a>
+                      </div>
+
+                    ';
+                  }
+
                   // other/unsupported file
                   else {
                     echo '
@@ -115,8 +128,6 @@ $folder_path = __DIR__.'/stuff/'.$folder_name;
     </div>
   </div>
 </main>
-
-</body>
 
 <script src="assets/jquery.js"></script>
 <script src="assets/jquery.lazy.min.js"></script>

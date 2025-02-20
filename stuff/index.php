@@ -73,6 +73,13 @@
                   <img data-src="' . $path . '" alt="' . $item . '" class="lazy" >
                 </figure>
               </div>';
+          } elseif (in_array($ext, ['txt', 'md'])) {
+            echo '
+              <div class="item">
+                <a href=text-file.php?name=' . $item . '>
+                  <div class="item__other-file">' . $item . '</div>
+                </a>
+              </div>';
           } else {
             echo '
               <div class="item">
@@ -95,8 +102,6 @@
     </div>
   </div>
 </main>
-
-</body>
 
 <script src="assets/jquery.js"></script>
 <script src="assets/jquery.lazy.min.js"></script>
