@@ -17,7 +17,6 @@ There is countless hosted way to build a personal library of stuff. From Pintere
 
 ### Roadmap + chores
 
-- ~~.txt and .md view to make it more palatable ~~
 - Get rid of jquery
 - Highlight with special character in string
 - Find a better name (For consideration: shtuff, Labb, Grange, Saak ??)
