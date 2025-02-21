@@ -66,6 +66,11 @@ body {
 header {
   padding: 20px 0;
 }
+footer {
+  padding: 20px 0;
+  color: var(--text-secondary);
+  font-size: var(--font-size-small);
+}
 .path-separator {
   color: var(--text-secondary);
   margin: 0 8px;
