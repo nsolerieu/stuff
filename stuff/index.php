@@ -41,9 +41,11 @@
 
       $folders = [];
       $files = [];
+      $totalItems = 0;
 
       foreach ($items as $item) {
         if ($item !== '.' && $item !== '..') {
+          $totalItems++;
           $path = $directory . '' . $item;
           if (is_dir($path)) {
             $folders[] = $item;
@@ -102,6 +104,14 @@
     </div>
   </div>
 </main>
+
+<footer>
+  <div class="container">
+    <div class="row">
+      <?php echo $totalItems . " items - updated: " . date("F d Y H:i:s", filemtime($directory)); ?> 
+    </div>
+  </div>
+</footer>
 
 <script src="assets/jquery.js"></script>
 <script src="assets/jquery.lazy.min.js"></script>

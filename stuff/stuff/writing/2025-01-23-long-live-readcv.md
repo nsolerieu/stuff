@@ -1,0 +1,7 @@
+# Long live Read.cv
+
+Readcv is winding down. The design was lovely. To me, it was a therapeutic outlet to offset the LinkedIn cringe and my dribbble frustration. Its delightful narrow container and left-aligned-everything will stay in my mental archive. Readcv offered a genuinely new take on designer platforms. No feature was particularly revolutionary but the execution was clearly a notch above all others. Sites were so much better than Dribbble. Posts were neat with mixed media, a better feed experience than Behance's Instagram-stories-inspired UI. And of course, the minimalist CV-like profiles that embodied the understated aesthetic of the platform. It worked flawlessly (not like layers.to, sorry for the jab) and the few UX quirks were almost endearing (at least easily forgiven — writings nesting was odd IMO).
+
+I can imagine that the crew is getting some crap for «selling out» to big AI money, along with cheerful messages. All this reminds me of Ueno Studio acquisition by Twitter. It’s often better to come out on top. They accomplished something and I can only imagine how hard it is to make it work financially. Their talent was recognized and got them a ticket to something else. Good on them.
+
+I love that they’re properly shutting it down. The internet is losing a social platform, how sad is it? How much does it matter? This is all software. This or whatever is coming next. Readcv is dead – Long live readcv.

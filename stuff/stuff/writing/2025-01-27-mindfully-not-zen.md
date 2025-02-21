@@ -1,0 +1,18 @@
+# Mindfully not Zen
+
+6AM - I found myself unsettled, trying hard to sit still, shall I say – to meditate. I had committed the deadly sin of replying to an email before that. After 5 minutes of box breathing, I knew I would not get anywhere unless spending all my precious quiet time. I knew such forceful trying was antithetical to the letting go meditation calls for — So I stood up, stretched a bit, and made myself a cup of tea. I was stuck in the clouds of my very awake brain. Today’s mindfulness game was lost. I could tell by tasting the tea. The delightful sting of peppermint mint on a clean palate and a clear mind was not there. So I gave up and got back to the computer. I was able to satisfyingly work through my to-do list. Perhaps today was meant to be a work morning. Quiet and busy go together. The mind needs to experience busyness to appreciate the quiet. Still, a slightly defeated feeling inhabited me as my son woke up.
+
+There is nothing wrong with maximizing the first hour. It’s the best creative juice. It’s the remaining buzz that makes me prone to distraction who's the killer. Is it worth it? Is the question even relevant? The questioning tells of an unease. The contemplative path has always been competing with the pragmatism of an active life.
+
+To work around this conundrum, I used to use the waking app to fit the practice in my digital ecosystem. Since kiddos entered the game, I decided to let practice follow the flow of life. Busy times aren't an easy fit for meditation.  I haven’t practiced regularly in months, which explains my morning struggles. Focus doesn't come back quick. Behavioral changes take time for old donkeys like me.
+
+Proper sitting meditation has gained so much popularity lately. A sort of spiritual materialism is taking over. According to the big guys, one needs to practice to deserve the spiritual goodies. Carried away by my lack of discipline I forget that mundanity is also a gateway. It's actually the preferred one in other traditions like Zen. Modern mindfulness flooded the marketplace with tools to cope, in response to philosophy's cryptic observations. With Zen, everything is, sometimes absurdly, compatible. I don’t totally understand it but I like the tone and approach, which seems fitting. That difference has been huge for me, as a father, and more broadly, as a grump.
+
+Here is an example:
+
+- Mindfulness: kids are being kids, here is how to deal with yourself, calmly. Step 1, 2, 3. Set a reminder to come back at it.
+- Zen: Kids. Adults. Crazy. Calm. It all makes sense.
+
+Being with my kid full-time flexes me — hard. Care is attention, a strenuous exercise at times. Cleaning is my meditation of choice. A calf stretch is my favorite — Recovering from a meltdown, my least favorite one. Not every moment is easy to put into perspective — I’m “very not Zen” as my wife says. Which is perfect, I’m struggling, and somehow, it makes sense right here, right now. Failing, barely cutting it, unsatisfyingly winging it… Mindfulness practice aims to get more comfortable starting over and over again – a humbling (and tedious) exercise but nowhere as profound as taking it all in, often, right in the face.
+
+I thought my grumpiness was due to not knowing what I wanted out of life. That – somehow all the shit around was messing with my inner compass, thus the worthiness of mindfulness practice. As I embrace Zen, I face the fact that, at the bottom of my heart, I really like shitting on everything, especially myself. Like if I was pre-enlightened, chipping away at my ego. That grandly idiotic realization is fun for me and hopefully somehow empowering.

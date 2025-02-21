@@ -65,6 +65,8 @@ $folder_path = __DIR__.'/stuff/'.$folder_name;
 
             if ($item !== '.' && $item !== '..') {
 
+              $totalItems++;
+
               $path = 'stuff/'.$folder_name.'/'.$item;
 
               if (is_file($path)) {
@@ -128,6 +130,14 @@ $folder_path = __DIR__.'/stuff/'.$folder_name;
     </div>
   </div>
 </main>
+
+<footer>
+  <div class="container">
+    <div class="row">
+      <?php echo $totalItems . " items - updated: " . date("F d Y H:i:s", filemtime($folder_path)); ?> 
+    </div>
+  </div>
+</footer>
 
 <script src="assets/jquery.js"></script>
 <script src="assets/jquery.lazy.min.js"></script>
