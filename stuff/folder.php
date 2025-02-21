@@ -59,7 +59,7 @@ $folder_path = __DIR__.'/stuff/'.$folder_name;
 
         } else {
 
-          $items = scandir($folder_path, SCANDIR_SORT_NONE);
+          $items = scandir($folder_path, SCANDIR_SORT_DESCENDING);
         
           foreach ($items as $item) {
 

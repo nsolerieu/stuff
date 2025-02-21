@@ -37,7 +37,7 @@
 
     <?php
       $directory = 'stuff/';
-      $items = scandir($directory, SCANDIR_SORT_NONE);
+      $items = scandir($directory, SCANDIR_SORT_ASCENDING);
 
       $folders = [];
       $files = [];
