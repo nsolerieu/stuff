@@ -1,6 +1,7 @@
 An improvised `/stuff` folder to unplug from social media and productivity apps - built with good old php
 
-<img width="1438" alt="Screenshot 2025-02-20 at 3 30 01 PM" src="https://github.com/user-attachments/assets/a9246e35-d1c0-49b4-a969-e97f1326c177" />
+![stuff-folder](https://github.com/user-attachments/assets/cd0a51d8-7646-48aa-92f7-958eb409a18b)
+
 
 This is a simple web UI kit to deploy your own folder. Images open in a light box overlay, everything else opens in a new tab.
 
@@ -17,9 +18,15 @@ There is countless hosted way to build a personal library of stuff. From Pintere
 
 ### Roadmap + chores
 
-- Get rid of jquery
+- Get rid of jquery (redo lazy load and lightbox scripts vanailla JS)
 - Highlight with special character in string
 - Find a better name (For consideration: shtuff, Labb, Grange, Saak ??)
+
+Done:
+- Added citem count + last update
+- Added text-file.php to make text file palatable
+- Folder first sorting
+- Remove lightbox prev/next (unnecessary)
 
 ---
 
