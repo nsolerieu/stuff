@@ -67,7 +67,7 @@ header {
   padding: 20px 0;
 }
 footer {
-  padding: 20px 0;
+  padding: 0 0 20px 0;
   color: var(--text-secondary);
   font-size: var(--font-size-small);
 }
@@ -102,7 +102,7 @@ a {
   flex-wrap: wrap;
 }
 .lazy {
-  background-image: url('../loader.gif');
+  background-image: url('loader.gif');
   background-size: 24px 24px;
   background-color: var(--bg-secondary);
   background-repeat: no-repeat;
