@@ -31,17 +31,18 @@ $file_path = __DIR__.'/stuff/'.$file_name;
 <body id="body" class="">
 
 <header>
-  <div class="container">
+  <div class="container-small">
     <div class="row">
-      <span onclick="history.back()" style="cursor: pointer;">Back</span>
-      <span class="path-separator">/</span>
-      <span class="stuff">File: <?php echo $file_name; ?></span>
+      <span onclick="history.back()" style="cursor: pointer;">[<] Go back</span>
+    </div>
+    <div class="row">
+      <span>File: <?php echo $file_name; ?></span>
     </div>
   </div>
 </header>
 
 <main style="padding: 6vh 0;">
-  <div class="container">
+  <div class="container-small">
     <div class="row">
 			<?php 
 				if ( file_exists($file_path) ) {

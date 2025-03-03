@@ -31,11 +31,8 @@ $folder_path = __DIR__.'/stuff/'.$folder_name;
 <header>
   <div class="container">
     <div class="row">
-      <span>@slrncl</span>
-      <span class="path-separator">/</span>
-      <a href="index.php">stuff</a> 
-      <span class="path-separator">/</span> 
-      <span><?php echo $folder_name; ?></span>
+      <span class="name">@slrncl</span>
+      <span class="path">/<?php echo $folder_name; ?></span>
     </div>
   </div>
 </header>
@@ -111,6 +108,20 @@ $folder_path = __DIR__.'/stuff/'.$folder_name;
 
                     ';
                   }
+
+              }
+
+              elseif (is_dir($path)) {
+
+                    echo '
+
+                      <div class="item">
+                        <a href=folder.php?name='.$folder_name.'/'.$item.'>
+                          <div class="item__folder">/' . $item . '</div>
+                        </a>
+                      </div>
+
+                    ';
 
               } else {
 

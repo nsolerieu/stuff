@@ -24,9 +24,8 @@
 <header>
   <div class="container">
     <div class="row">
-      <span>@slrncl</span>
-      <span class="path-separator">/</span>
-      <span class="stuff">stuff</span>
+      <span class="name">@slrncl</span>
+      <span class="path">/</span>
     </div>
   </div>
 </header>
